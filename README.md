@@ -1,5 +1,6 @@
-Meu primeiro arquivo enviado para o GIT com linha de comando.
+Meu SEGUNDO arquivo enviado para o GIT com linha de comando.
 
 Criando o arquivo Style Css.
 
-Alterando o arquivo README, utilizando a Branch Master.
+Alguma nova linha legal. (MAASTER)
+Mais uma linha. (MASTER)
